@@ -1,2 +1,2 @@
 # rannu-resolusi
-Repository untuk menyimapan rencana kedepan
+Repository untuk menyimpan rencana kedepan
